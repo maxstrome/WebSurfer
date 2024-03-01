@@ -1,0 +1,9 @@
+Find articles / people doing similar:
+    https://medium.com/@enricdomingo/making-gpt-4v-to-play-poker-for-me-automatic-vision-bot-in-python-69031c79e733
+    https://medium.com/@gitlostmurali/creating-an-automated-ui-controller-with-gpt-agents-35340759d08b
+Use pyautogui to control computer: https://pyautogui.readthedocs.io/en/latest/mouse.html
+Use GPT-4V to decide actions
+https://x.com/itstimconnors/status/1736821319080226817?s=46&t=336nDP1NH1760igQ_XntwA
+HEADLESS CHROME. PUPEETEER.
+https://x.com/ysu_nlp/status/1742398541660639637?s=46&t=336nDP1NH1760igQ_XntwA
+SEE ACT
